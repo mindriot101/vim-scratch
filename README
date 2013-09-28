@@ -1,3 +1,6 @@
+This is an update of the scratch plugin where the filetype of the scratch
+buffer is set to markdown.
+
 You can use the scratch plugin to create a temporary scratch buffer to store 
 and edit text that will be discarded when you quit/exit vim. The contents 
 of the scratch buffer are not saved/stored in a file. 
